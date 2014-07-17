@@ -1,0 +1,12 @@
+# Site settings
+title: Colt's Puppy Blog
+email: yaypuppy@coltpuppy.com
+description: "puppies and puppies"
+baseurl: ""
+url: "http://yourdomain.com"
+twitter_username: jtuanjones
+github_username: jessicatuan
+
+# Build settings
+markdown: kramdown
+permalink: pretty

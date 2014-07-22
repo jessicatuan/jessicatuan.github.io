@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Dough"
+date:   2014-07-21 19:21:12
+categories: startups
+---
+
+<div class="post-image"><img src="https://pbs.twimg.com/profile_images/438791463246118912/tQx9oDI6_400x400.jpeg"></div>
+
+Dough teaches anyone and everyone how to invest. Marketed as investing for the "do-it-yourselfers". Watch how experts do it and you can learn do it yourself. 

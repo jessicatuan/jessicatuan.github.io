@@ -4,9 +4,11 @@ title: About
 permalink: /about/
 ---
 
-About Colt: Loves meat, ice cubes, peanut butter. Likes to sleep belly up. 
+Staying startup cool.
 
-Blanket chewer, water bottle chaser, pooper.
+
+
+Fellow dog lover. Yay Puppy.
 
 Follow Colt [on instagram](http://www.instagram.com/coltonthetoller)
 
